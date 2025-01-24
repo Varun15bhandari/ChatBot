@@ -8,42 +8,34 @@
     cd myapp
     npm install web-vitals
     npm start
+    
+                             #Command Breakdown#
+    npx create-react-app myapp
 
+ >Creates new React application
+ >Uses Create React App template
+ >Generates project structure
+ >Installs default React dependencies
+ >Project folder name: myapp
 
+    cd myapp
 
-Command Breakdown
-npx create-react-app myapp
+ >Changes directory into newly created project folder
+ >Moves terminal context to project root
 
-Creates new React application
-Uses Create React App template
-Generates project structure
-Installs default React dependencies
-Project folder name: myapp
+    npm install web-vitals
 
-cd myapp
+ >Adds Web Vitals library
+ >Enables performance measurement
+ >Tracks key web performance metrics:
 
-Changes directory into newly created project folder
-Moves terminal context to project root
-
-npm install web-vitals
-
-Adds Web Vitals library
-Enables performance measurement
-Tracks key web performance metrics:
-
-Largest Contentful Paint (LCP)
-First Input Delay (FID)
-Cumulative Layout Shift (CLS)
-
-
-
-npm start
-
-Launches development server
-Opens application in default browser
-Enables hot reloading
-Provides real-time code changes preview
-Runs on http://localhost:3000
+    npm start
+    
+ >Launches development server
+ >Opens application in default browser
+ >Enables hot reloading
+ >Provides real-time code changes preview
+ >Runs on http://localhost:3000
 
 
 
