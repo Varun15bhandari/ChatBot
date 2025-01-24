@@ -9,10 +9,11 @@
     npm install web-vitals
     npm start
     
-                    #Command Breakdown#
+   #Command Breakdown#
+   
     npx create-react-app myapp
 
- >Creates new React application
+>Creates new React application
  >Uses Create React App template
  >Generates project structure
  >Installs default React dependencies
