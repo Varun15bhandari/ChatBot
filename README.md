@@ -9,7 +9,7 @@
     npm install web-vitals
     npm start
     
-                             #Command Breakdown#
+                    #Command Breakdown#
     npx create-react-app myapp
 
  >Creates new React application
