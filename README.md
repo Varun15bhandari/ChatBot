@@ -32,11 +32,11 @@
 
     npm start
     
- 1 Launches development server
- 2 Opens application in default browser
- 3 Enables hot reloading
- 4 Provides real-time code changes preview
- 5 Runs on http://localhost:3000
+             1 Launches development server
+             2 Opens application in default browser
+             3 Enables hot reloading
+             4 Provides real-time code changes preview
+             5 Runs on http://localhost:3000
 
                  # Quick Setup #
     Installation
