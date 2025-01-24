@@ -38,31 +38,29 @@
  4 Provides real-time code changes preview
  5 Runs on http://localhost:3000
 
+                 # Quick Setup #
+    Installation
 
+    1 Clone repository
+    2 Run npm install
+    3 Start development server: npm start
 
-Quick Setup
-Installation
+                 # Key Commands #
 
-Clone repository
-Run npm install
-Start development server: npm start
+    1 npm start: Run app
+    2 npm test: Run tests
+    3 npm run build: Production build
 
-Key Commands
+                  # Project Dependencies #
 
-npm start: Run app
-npm test: Run tests
-npm run build: Production build
+    1 React
+    2 Web Vitals
+ 
+                  # Development Notes #
 
-Project Dependencies
-
-React
-Web Vitals
-
-Development Notes
-
-Uses Create React App
-Configured for web performance monitoring
-Easy deployment with build script
+     Uses Create React App
+     Configured for web performance monitoring
+     Easy deployment with build script
 
 
 
