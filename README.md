@@ -13,30 +13,30 @@
    
     npx create-react-app myapp
 
->Creates new React application
- >Uses Create React App template
- >Generates project structure
- >Installs default React dependencies
- >Project folder name: myapp
+ 1 Creates new React application
+ 2 Uses Create React App template
+ 3 Generates project structure
+ 4 Installs default React dependencies
+ 5 Project folder name: myapp
 
     cd myapp
 
- >Changes directory into newly created project folder
- >Moves terminal context to project root
+ 1 Changes directory into newly created project folder
+ 2 Moves terminal context to project root
 
     npm install web-vitals
 
- >Adds Web Vitals library
- >Enables performance measurement
- >Tracks key web performance metrics:
+ 1 Adds Web Vitals library
+ 2 Enables performance measurement
+ 3 Tracks key web performance metrics:
 
     npm start
     
- >Launches development server
- >Opens application in default browser
- >Enables hot reloading
- >Provides real-time code changes preview
- >Runs on http://localhost:3000
+ 1 Launches development server
+ 2 Opens application in default browser
+ 3 Enables hot reloading
+ 4 Provides real-time code changes preview
+ 5 Runs on http://localhost:3000
 
 
 
